@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419592705946",
+    "project_id": "ecommerceebfarma",
+    "storage_bucket": "ecommerceebfarma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419592705946:android:75e6621c334dae3394cc23",
+        "android_client_info": {
+          "package_name": "com.unt_apps.ecommerceebfarma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419592705946-ifla7s22f09ft95qinjknqqiusqeele5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCt_e3MMascPTiWfQrPqnQUnfAVGwokI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419592705946-ifla7s22f09ft95qinjknqqiusqeele5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
